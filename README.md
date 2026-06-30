@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Project Overview
-This repository hosts a production-level **E-commerce Analytics Solution** engineered using **Power BI** and **SQL**[cite: 1]. The platform transforms raw retail datasets into secure, interactive, and high-performing dashboards designed to track sales pipelines, customer behaviors, and operational efficiencies. 
+This repository hosts a production-level **E-commerce Analytics Solution** engineered using **Power BI** and **SQL**. The platform transforms raw retail datasets into secure, interactive, and high-performing dashboards designed to track sales pipelines, customer behaviors, and operational efficiencies. 
 
 The deployment strictly adheres to modern BI engineering principles, utilizing advanced data compression modeling, secure cloud distribution, and precise data access rules.
 
